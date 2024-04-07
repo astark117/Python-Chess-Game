@@ -3,7 +3,7 @@ Portfolio Project for CS162 - Intro to Comp Sci II
 
 The ChessVar_with_main.py file has a main function to run the game using a simple text interface to make moves. The ChessVar.py file is the barebones code that I submitted for the project.
 
-#Class Instructions:
+# Class Instructions:
 Remember that this project cannot be submitted late.
 
 Write a class named ChessVar for playing an abstract board game that is a variant of chess. The following explanation of the rules assumes some familiarity with the rules of chess - specifically how the pieces move and capture. If you have any questions about those rules, please don't hesitate to ask.
